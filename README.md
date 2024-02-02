@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there, I'm Igor Ivanov
+### A novice data analyst, a graduate of the Yandex Practicum course, a data science specialist +
 
 <!--
 **IvanovvIgor/IvanovvIgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
